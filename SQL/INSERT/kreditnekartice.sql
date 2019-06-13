@@ -1,0 +1,5 @@
+INSERT INTO `pozoriste`.`kreditnakartica` (`BROJ`, `PRETPLATNIKID`, `TIP`, `DATUMVAZENJA`) VALUES ('22349079', '1', 'CREDIT', '2017-10-03');
+INSERT INTO `pozoriste`.`kreditnakartica` (`BROJ`, `PRETPLATNIKID`, `TIP`, `DATUMVAZENJA`) VALUES ('17332522', '2', 'DEBIT', '2017-10-05');
+INSERT INTO `pozoriste`.`kreditnakartica` (`BROJ`, `PRETPLATNIKID`, `TIP`, `DATUMVAZENJA`) VALUES ('79486074', '3', 'DEBIT', '2017-12-30');
+INSERT INTO `pozoriste`.`kreditnakartica` (`BROJ`, `PRETPLATNIKID`, `TIP`, `DATUMVAZENJA`) VALUES ('36174552', '4', 'CREDIT', '2017-09-15');
+INSERT INTO `pozoriste`.`kreditnakartica` (`BROJ`, `PRETPLATNIKID`, `TIP`, `DATUMVAZENJA`) VALUES ('40420051', '5', 'INTERNET', '2017-11-11');
